@@ -1,1 +1,3 @@
-Nous avons créer notre site web, maintenabnt je vais ajouter de nouvelle fonctionnalité
+Nous avons créer notre site web, maintenabnt je vais ajouter de nouvelle fonctionnalité.
+
+Papa ivana a modifier le projet depuis son dépot distant
